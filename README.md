@@ -1,5 +1,6 @@
-English Readme :  [Undergraduate final project: Ordinal Clasification with Residual Networks for the Adience dataset](#undergraduate-final-project-ordinal-clasification-with-residual-networks-for-the-adience-dataset).
-Spanish Readme: [Trabajo Fin de Grado: Clasificación Ordinal mediante Redes Neuronales Residuales para el *dataset* Adience](#trabajo-fin-de-grado-clasificación-ordinal-mediante-redens-neuronales-residuales-para-el-dataset-adience)
+**READMEs**:
+* English Readme :  [Undergraduate final project: Ordinal Clasification with Residual Networks for the Adience dataset](#undergraduate-final-project-ordinal-clasification-with-residual-networks-for-the-adience-dataset).
+* Spanish Readme: [Trabajo Fin de Grado: Clasificación Ordinal mediante Redes Neuronales Residuales para el *dataset* Adience](#trabajo-fin-de-grado-clasificación-ordinal-mediante-redes-neuronales-residuales-para-el-dataset-adience)
 _______________________________________________________
 
 # [Undergraduate final project: Ordinal Clasification with Residual Networks for the Adience dataset](#undergraduate-final-project-ordinal-clasification-with-residual-networks-for-the-adience-dataset)
@@ -29,7 +30,7 @@ All the training information, csv of losses and accuracy in train and validation
 
 _______________________________________________________
 
-# [Trabajo Fin de Grado: Clasificación Ordinal mediante Redes Neuronales Residuales para el *dataset* Adience](#trabajo-fin-de-grado-clasificación-ordinal-mediante-redens-neuronales-residuales-para-el-dataset-adience).
+# [Trabajo Fin de Grado: Clasificación Ordinal mediante Redes Neuronales Residuales para el *dataset* Adience](#trabajo-fin-de-grado-clasificación-ordinal-mediante-redes-neuronales-residuales-para-el-dataset-adience).
 
 
 Este repositorio contiene el código creado para mi Trabajo Fin de Grado que consiste en replicar los resultados del artículo [Unimodal Probability Distributions for Deep Ordinal Classification](https://arxiv.org/pdf/1705.05278.pdf). Se utilizan distribuciones de probabilidad unimodales para imponer que la clasificación realizada por la red residual sea ordinal. Para entrenar y evaluar los modelos creados se usa el conjunto de datos [Adience](https://www.openu.ac.il/home/hassner/Adience/data.html).
